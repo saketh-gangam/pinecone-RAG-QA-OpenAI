@@ -1,0 +1,1 @@
+# pinecone-RAG-QA-OpenAI
